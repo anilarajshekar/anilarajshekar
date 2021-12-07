@@ -6,6 +6,7 @@
 - 📫 How to reach me ... I am just an email away... anila.rajshekar@gmail.com
 - � Looking for help on... Angular JS
 - 🎯 I was into Digital Marketing, but recently got impressed with Web Development & started working on it.
+- 🖥️ I am looking for remote Frontend Developer job with JavaScript, HTML, CSS
 <!---
 anilarajshekar/anilarajshekar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
